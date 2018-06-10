@@ -1,0 +1,6 @@
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.exe.config
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.exe
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.pdb
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.exe
+C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.pdb
