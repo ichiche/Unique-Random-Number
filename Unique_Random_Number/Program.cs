@@ -17,18 +17,19 @@ namespace ConsoleApplication1
 
             for (int i = 0; i < 6; i++)
             {
-                Console.WriteLine(i + "-----");
+                Console.WriteLine("-----");
                 do
                 {
                     currentRandom = rd.Next(1, 7);
                     check = arr.Where(item => item == currentRandom);
-                    Console.WriteLine("Random Number: " + currentRandom);
+                    Console.WriteLine("Random Number from Thread {0}: {1}", i, currentRandom);
                 } while (check.Count() != 0);
 
                 arr[i] = currentRandom;
                 Console.WriteLine();
             }
 
+            Console.WriteLine("\n6 Uniuque Random Number:\n-----");
             foreach (var item in arr)
             {
                 Console.WriteLine(item);

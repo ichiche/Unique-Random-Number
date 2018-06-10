@@ -4,3 +4,10 @@ C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\bin\Deb
 C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.csprojResolveAssemblyReference.cache
 C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.exe
 C:\Visual Studio 2015\Projects\Unique_Random_Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.pdb
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.exe.config
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.exe
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\bin\Debug\Unique_Random_Number.pdb
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.csprojAssemblyReference.cache
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.csproj.CoreCompileInputs.cache
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.exe
+E:\Education\Programming\C#\- Code\Self Learning\Unique-Random-Number\Unique_Random_Number\obj\Debug\Unique_Random_Number.pdb
